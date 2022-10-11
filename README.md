@@ -17,6 +17,8 @@ Skills: Java/ Python / HTML / CSS / PHP /C / C++/ FLASK / MySQL / SQLite/ Fireba
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Abrar1S)  
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Abrar1S)  
+
 ![GitHub metrics](https://metrics.lecoq.io/Abrar1S)  
 
  
