@@ -13,11 +13,11 @@ Skills: Java/ Python / HTML / CSS / PHP /C / C++/ FLASK / MySQL / SQLite/ Fireba
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrar1S)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abrar1S&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Abrar1S)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abrar1S&show_icons=true&count_private=true)   
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Abrar1S)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Abrar1S) 
 
 ![GitHub metrics](https://metrics.lecoq.io/Abrar1S)  
 
