@@ -18,9 +18,6 @@ Skills: Java/ Python / HTML / CSS / PHP / C / C++/ FLASK / MySQL / SQLite/ Fireb
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Abrar1S&theme=tokyonight)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Abrar1S&theme=react-dark)
-
-![GitHub metrics](https://metrics.lecoq.io/Abrar1S)  
-
  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Abrar1S)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rashid-abrar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rashid.ravie.50) 
