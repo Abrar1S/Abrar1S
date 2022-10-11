@@ -11,9 +11,9 @@ Skills: Java/ Python / HTML / CSS / PHP /C / C++/ FLASK / MySQL / SQLite/ Fireba
 
 ![Profile views](https://gpvc.arturio.dev/Abrar1S) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrar1S)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrar1S&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abrar1S&show_icons=true&theme=onedark)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abrar1S&show_icons=true&theme=dracula)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Abrar1S)  
 
