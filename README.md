@@ -8,3 +8,6 @@ Skills: Java/ Python / HTML / CSS / PHP /C / C++/ FLASK / MySQL / SQLite/ Fireba
 - 🌱 I’m currently learning Deep learning and Natural Language Processing 
 - 👯 I’m looking to collaborate on Any kind of android application or machine learning projects 
 - 🤔 I’m looking for help with App development in Kotlin 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Abrar1S)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rashid-abrar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rashid.ravie.50)  
