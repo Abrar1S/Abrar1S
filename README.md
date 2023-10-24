@@ -18,5 +18,3 @@ Skills: Java, Python, HTML, CSS, PHP, C, C++, FLASK, MySQL, SQLite, Firebase, MS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abrar1S&show_icons=true&theme=tokyonight)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Abrar1S&theme=tokyonight)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Abrar1S&theme=react-dark)
