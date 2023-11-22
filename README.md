@@ -2,7 +2,7 @@
 
 I have a great deal of fun working on various software projects. Working on these projects has given me the opportunity to hone my skills in object-oriented programming, back-end development, Google Maps, push notifications, and material UI design, among many other areas. In addition, I enjoy machine learning. Working on projects related to machine learning and deep learning helps me comprehend how beneficial studying machine learning may be for my future knowledge quest.
 
-Skills: Java, Python, HTML, CSS, PHP, C, C++, FLASK, MySQL, SQLite, Firebase, MS SQL, Retrofit, REST API
+Skills: Python, Java, HTML, CSS, PHP, C, C++, FLASK, MySQL, SQLite, Firebase, MS SQL, Retrofit, REST API
 
 - 🔭 I’m experienced with Android application development.
 - 🌱 I’m currently learning Deep learning and Natural Language Processing.
