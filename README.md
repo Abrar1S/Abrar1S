@@ -4,10 +4,10 @@ I have a great deal of fun working on various software projects. Working on thes
 
 Skills: Python, Java, HTML, CSS, PHP, C, C++, FLASK, MySQL, SQLite, Firebase, MS SQL, Retrofit, REST API
 
-- 🔭 I’m experienced with Android application development.
-- 🌱 I’m currently learning Deep learning and Natural Language Processing.
+- 🔭 I’m experienced with Android application development and Machine Learning Models.
+- 🌱 I’m currently learning Deep learning, Natural Language Processing, Generative Learning, and Transformers.
 - 👯 I’m looking to collaborate on any kind of Android application or machine learning project.
-- 🤔 I’m looking for help with app development in Kotlin.
+- 🤔 I’m looking for help with app development in Kotlin, and Computer Vision projects.
 
 
 
